@@ -72,7 +72,7 @@ Insert number of nodes here (multiple lines if grid convergence study was done)
 ## Number of Total Cells:
 B: 5,730,017  
 C: 17,156,245  
-D: 38,396,609
+D: 38,396,609  
 E: 121,556,748
 
 ## Miscellaneous:  
