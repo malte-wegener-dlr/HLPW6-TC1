@@ -50,13 +50,12 @@ FT=2 Flow Through MAC based on averaged time step.
 (Some cases does not satisfy this criteria in this version.)  
 
 ## Miscellaneous:  
-Insert any other information about the code/solver here
+Nothing  
 
 # Test Case 1 GRID & SOLUTION INFO (CRM-HLS)
 
 ## Name of committee-supplied grid used (if other, supply the info below):
-Nothing  
-
+R.1.TC1.01 HeldenMesh fixed grid family (Helden Series 03)  
 
 For non-committee grids...
 ## Grid-Generator Name and Version:  
