@@ -18,5 +18,11 @@ Five images are requested per angle of attack:
 5. **VIEW_5_B2_BOTTOM**: view of slat upper surface, name:
    - **"aoaYYY_tauw_view_05_B2_bottom.png"**: skin friction magnitude only
    - **"aoaYYY_stream_view_05_B2_bottom.png"**: skin friction magnitude with streamlines
-6. **OPTIONAL, VIEW_6_SLAT_BRACKET_WAKES **: JAXA-defined off-body wake analysis
-   - **"aoaYYY_tauw_view_06_slat_bracket_wake.png"**: see view defined [here](https://aiaa-hlpw.org/HLPW6/TC1_Post)
+6. **VIEW_6_SLAT_BRACKET_WAKES**: JAXA-defined off-body wake analysis
+   - There should be three plots for this view, one for each vorticity components
+   - Components are defined relative to freestream velocity vector
+   - **"aoaYYY_omega_x_view_06_slat_bracket_wake.png"**: x (stream-wise) vorticity component
+   - **"aoaYYY_omega_y_view_06_slat_bracket_wake.png"**: y (span-wise) vorticity component
+   - **"aoaYYY_omega_z_view_06_slat_bracket_wake.png"**: z (normal) vorticity component
+   - See view defined [here](https://aiaa-hlpw.org/HLPW6/TC1_Post)
+   
