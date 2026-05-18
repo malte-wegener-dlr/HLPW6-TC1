@@ -21,9 +21,9 @@ Five images are requested per angle of attack:
 6. **VIEW_6_SLAT_BRACKET_WAKES**: JAXA-defined off-body wake analysis
    - There should be three plots for this view, one for each vorticity components
    - Components are defined relative to freestream velocity vector
-   - **"aoaYYY_omega_x_view_06_slat_bracket_wake.png"**: x (stream-wise) vorticity component
-   - **"aoaYYY_omega_y_view_06_slat_bracket_wake.png"**: y (span-wise) vorticity component
-   - **"aoaYYY_omega_z_view_06_slat_bracket_wake.png"**: z (normal) vorticity component
+   - **View 6(a)**: **"aoaYYY_omega_x_view_06_slat_bracket_wake.png"**: x (stream-wise) vorticity component
+   - **View 6(b)**: **"aoaYYY_omega_y_view_06_slat_bracket_wake.png"**: y (span-wise) vorticity component
+   - **View 6(c)**: **"aoaYYY_omega_z_view_06_slat_bracket_wake.png"**: z (normal) vorticity component
    - See view defined [here](https://aiaa-hlpw.org/HLPW6/TC1_Post)
    - Macros are defined [here](https://hlpw6.s3.us-east-1.amazonaws.com/website/TC1_Postprocessing/view6_tc1_v2.zip)
    
