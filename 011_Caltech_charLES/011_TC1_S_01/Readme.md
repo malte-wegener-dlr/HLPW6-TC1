@@ -16,12 +16,16 @@ Additionally, participants should revise the Readme.md (this file) within their 
 
 # Name(s) and Organization(s):
 Adrian Lozano-Duran (Caltech)
+
 Imran Hayat (Caltech)
+
 Hugh Cairney (MIT)
+
 Yuenong Ling (MIT)
 
 ## Primary Email:  
 adrianld@caltech.edu
+
 ihayat@caltech.edu
 
 ## Primary Phone:  
